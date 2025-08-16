@@ -36,15 +36,11 @@ netflix_clone_project/
 │           ├── bg.jpg
 │           └── logo.svg
 
+
 📸 Screenshots
 
 <img width="2559" height="1599" alt="Screenshot 2025-08-16 113229" src="https://github.com/user-attachments/assets/10785c77-491b-4964-853c-a6755d6661e3" />
 <img width="2559" height="1479" alt="Screenshot 2025-08-16 113241" src="https://github.com/user-attachments/assets/3010ab22-0503-487a-ada8-616436dbfa12" />
-https://github.com/user-attachments/assets/61c7fb1e-fb32-4ba4-bfa9-c643fb673bea
-
-
-
-
 
 ⚡ Getting Started
 
